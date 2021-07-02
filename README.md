@@ -1,2 +1,2 @@
 # Java-For-Android-Coursera
-It contains notes, quizzes, assignments, etc. of the MOOC.
+It contains notes and solutions of quizzes/assignments of the MOOC.
