@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\naman\\OneDrive\\Desktop\\Java-For-Android-Coursera\\Solutions\\Week 2\\Programming Assignment - Birthday Problem\\m5-birthday\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\naman\\.gradle\\caches\\transforms-2\\files-2.1\\93e593b97d7d6ddade6692161faf5d20\\appcompat-1.1.0\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
